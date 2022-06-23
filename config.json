@@ -1,0 +1,7 @@
+{
+  "bash":  "/bin/bash",
+  "bedtools":  "/opt/miniconda3/bin/bedtools",
+  "enlarge":  300,
+  "window":  100,
+  "cores": 5
+}
